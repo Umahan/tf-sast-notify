@@ -3,7 +3,8 @@ stages:
   - validate
   - plan
   - apply
-  
+  - destroy
+
 image:
   name: hashicorp/terraform:1.8
   entrypoint:
