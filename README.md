@@ -2,11 +2,11 @@
 
 
 # Terraform SAST Notify CI/CD Pipeline
-![CI/CD](https://img.shields.io/badge/GitLab%2520CI-Pipeline-blue)
-https://img.shields.io/badge/Terraform-1.8+-844FBA?logo=terraform
-https://img.shields.io/badge/Checkov-Security%2520Scanning-brightgreen
-https://img.shields.io/badge/TFLint-Linter-orange
-https://img.shields.io/badge/Yandex.Cloud-Provider-blue?logo=yandex
+![CI/CD](https://img.shields.io/badge/GitLab-CI-Pipeline-blue)
+![Terraform](https://img.shields.io/badge/Terraform-1.8+-844FBA?logo=terraform)
+![Checov](https://img.shields.io/badge/Checkov-Security%2520Scanning-brightgreen)
+![TFlint](https://img.shields.io/badge/TFLint-Linter-orange)
+![Yandex](https://img.shields.io/badge/Yandex.Cloud-Provider-blue?logo=yandex)
 
 A production‑ready GitLab CI/CD pipeline for Terraform projects with integrated security linting, validation, planning, and deployment, complete with Telegram notifications and Yandex Cloud provider mirror support.
 
