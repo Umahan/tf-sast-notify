@@ -18,12 +18,19 @@ The pipeline is optimized for Yandex Cloud (using their Terraform provider mirro
 # Features
 
 ✅ Multi‑stage pipeline – lint → validate → plan → apply / destroy
+
 🔒 Security scanning with Checkov
+
 🔍 Best‑practice linting with TFLint
+
 📦 Terraform plan only on merge requests to main
+
 📊 JSON plan output – easily integrate with merge request widgets
+
 🛑 Manual approval for apply and destroy stages
+
 🤖 Telegram notifications – instant feedback on job status
+
 ☁️ Yandex Cloud provider mirror – bypass HashiCorp registry restrictions
 
 # Pipeline Stages & Jobs
