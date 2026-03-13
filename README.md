@@ -2,9 +2,9 @@
 
 
 # Terraform SAST Notify CI/CD Pipeline
-![CI/CD](https://img.shields.io/badge/GitLab-CI-Pipeline-blue)
+![CI/CD](https://img.shields.io/badge/GitLab_CI-Pipeline-blue)
 ![Terraform](https://img.shields.io/badge/Terraform-1.8+-844FBA?logo=terraform)
-![Checov](https://img.shields.io/badge/Checkov-Security%2520Scanning-brightgreen)
+![Checkov-Security](https://img.shields.io/badge/Checkov-Security_Scanning-brightgreen)
 ![TFlint](https://img.shields.io/badge/TFLint-Linter-orange)
 ![Yandex](https://img.shields.io/badge/Yandex.Cloud-Provider-blue?logo=yandex)
 
